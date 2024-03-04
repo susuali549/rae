@@ -82,9 +82,9 @@ createRoot(root).render(
 
 // compnentiga light //
 <div>
-<Header />
+{/* <Header /> */}
 <Light />
-<Footer />
+{/* <Footer /> */}
 </div>
 
 )
